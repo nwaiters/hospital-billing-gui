@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_HospitalBillingGUI_FILE /Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/HospitalBillingGUI.app/Contents/MacOS/HospitalBillingGUI)
+set(__QT_DEPLOY_TARGET_HospitalBillingGUI_TYPE EXECUTABLE)

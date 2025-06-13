@@ -1,0 +1,9 @@
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/HospitalBillingGUI.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/HospitalBillingGUI_autogen_timestamp_deps.dir
+/Users/nyrawaiters/Downloads/xcode projects/HospitalBillingGUI/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/HospitalBillingGUI_autogen.dir
